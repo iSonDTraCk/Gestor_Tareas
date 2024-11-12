@@ -1,13 +1,24 @@
 # Gestor de Tareas
-Esta es una aplicación de gestión de tareas desarrollada en Python. Permite agregar, ver, marcar como completadas y eliminar tareas. La aplicación utiliza Tkinter para la interfaz gráfica y sigue el enfoque de Desarrollo Guiado por Pruebas (TDD) junto con GitFlow para la gestión del código.
+
+## Estudiantes
+
+- **Guevara Moscoso, David André**: 73234956@continental.edu.pe
+- **Tacunan Palomino, Jean Pool**: 71549818@continental.edu.pe
+
+Este es un proyecto en Python que implementa un **gestor de tareas** utilizando PyQt6 para la interfaz gráfica. Permite agregar, eliminar y marcar tareas como completadas. El proyecto se basa en una estructura simple de gestión de tareas que almacena tareas en una lista y muestra su estado en una interfaz gráfica.
+
 ## Requisitos
+
 - Python 3.x
-- Tkinter (incluido en la instalación estándar de Python)
+- PyQt6
+
 ## Instalación
-### Clona este repositorio:
-```
-git clone https://github.com/dgamarra/GestorTareas.git
-```
+
+1. Clona este repositorio a tu máquina local:
+
+   ```bash
+   git clone https://github.com/tu_usuario/gestor_tareas.git
+
 ### Estructura del proyecto
 ```
 gestor_tareas/
